@@ -5,4 +5,5 @@ package com.mydemo;
  */
 
 public class test {
+    int i=1;
 }
