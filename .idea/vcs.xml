@@ -4,6 +4,6 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="D:\GitHub\MyDemo\MyDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyDemo" vcs="Git" />
   </component>
 </project>
