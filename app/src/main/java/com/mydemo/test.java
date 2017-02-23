@@ -5,5 +5,5 @@ package com.mydemo;
  */
 
 public class test {
-    int i=2;
+    int i=3;
 }
